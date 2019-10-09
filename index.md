@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to Bernard's Finals App Webpage.
 
-You can use the [editor on GitHub](https://github.com/Benedadon74/myfinalsappCIS280/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description of App:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is an inventory tracking app. This app will show the number of each individual item that is available. You can set a number so that you can be reminded to order more of that particular item so that you do not run out. It is great for merchandisers such as clothing salesperson, parts dealer etc.
 
 ```markdown
 Syntax highlighted code block
